@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-# Molecular Interactions in C++ 
+# Molecular Interactions in C
 
 Trabalho final do curso de Introdução à Estrutura de Proteínas e Modelagem Molecular
 
