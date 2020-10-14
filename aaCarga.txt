@@ -1,0 +1,5 @@
+LYS
+ARG
+GLU
+ASP
+HIS
