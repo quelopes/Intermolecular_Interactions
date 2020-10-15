@@ -4,7 +4,7 @@ output:
   html_document: default
 ---
 
-# Molecular Interactions in C
+# Intermolecular Interactions in C
 
 Trabalho final do curso de Introdução à Estrutura de Proteínas e Modelagem Molecular
 
@@ -13,6 +13,11 @@ Laboratório Nacional de Computação Científica.
 Professor: Laurent Dardene
 
 Data: Dezembro de 2010
+
+
+## Description
+
+Intermolecular interactions program. From the spatial coordinates of the atoms, it is possible to know how many and which molecular interactions are taking place between proteins, ligands and solvents. The coordinate data were obtained from molecules determined experimentally and deposited in the PDB.
 
 
 ## Program structure
